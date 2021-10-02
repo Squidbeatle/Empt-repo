@@ -1,2 +1,3 @@
 Ok ready to try and push up from terminal to github? 
 After push success enter text below.
+Check please. im writing this from github.
